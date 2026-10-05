@@ -14,9 +14,9 @@ void token()
 int main()
 {
     int choice;
-    int balance = 0;
-    int Deposit;
-    int withdraw;
+    float balance = 0;
+    float Deposit;
+    float withdraw;
     do
     {
         token();
